@@ -1,0 +1,31 @@
+.yellow{
+	color:yellow;
+}
+.blue{
+	color:blue;
+}
+.big{
+	font-size:40px;
+}
+#text{
+	color:aqua;
+}
+.box{
+	width:200px;
+	height:200px;
+	background-color:red;
+}
+.card h3{
+	text-transform:uppercase;
+	color:brown;
+}
+.card p{
+	text-transform:uppercase;
+	color:red;
+}
+.card{
+	width:300px;
+	border:1px solid red;
+	padding:20px;
+	margin:20px;
+}

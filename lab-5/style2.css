@@ -1,0 +1,46 @@
+body{
+	background-color:blue;
+}
+.blue{
+	Background-color:white;
+	height:200px;
+	width:500px;
+	border:2px solid white;
+	position:absolute;
+	top:20%;
+	left:30%;
+}
+.red{
+	Background-color:white;
+	height:200px;
+	width:500px;
+	border:5px solid white;
+	position:absolute;
+	top:60%;
+	left:30%;
+}
+.blue p{
+	color:blue;
+}
+.blue h3{
+	color:blue;
+	text-align:left;
+}
+.red h3{
+	color:red;
+}
+.border{
+	margin:20px;
+	border:2px solid blue;
+}
+.bodrer{
+	margin:20px;
+	border:2px solid red;
+}
+.border h3{
+	text-align:right;
+}
+.bodrer h3{
+	text-align:right;
+}
+

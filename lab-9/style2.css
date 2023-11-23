@@ -1,0 +1,75 @@
+.header{
+	padding:15px 0;
+	position:sticky;
+	top:0%;
+	background-color:#fff;
+	z-index:999;
+}
+.header .menu li{
+	display:inline-block;
+	margin-right:25px;
+}
+.header .menu a{
+	color:black;
+	font-size:25px;
+	text-decoration:none;
+}
+.home, .about, .service, .contact{
+	height:100vh;
+}
+.home{
+	background-color:brown;
+}
+.about{
+	background-color:red;
+}
+.service{
+	padding:40px 0;
+}
+.service .product img{
+	width:100%;
+}
+.service .info{
+	position:absolute;
+	top:0;
+	background-color:rgba(0,0,0,0.5);
+	color:#fff;
+	width:100%;
+	padding:10px;
+}
+.service .product{
+	position:relative;
+}
+.contact{
+	background-color:aqua;
+}
+.footer{
+	padding:30px 0px;
+	background-color:#f3f3f4;
+}
+.divider{
+	width:80px;
+	height:3px;
+	background-color:#314186;
+	margin-bottom:20px;
+}
+.footer ul{
+	list-style-type:none;
+	margin:0;
+	padding:0;
+}
+.footer .f-menu i{
+	color:#314186;
+	margin-right:5px;
+	font-size:14px;
+}
+.footer .f-menu a{
+	color:#000;
+	text-decoration:none;
+}
+.footer .request input, .footer textarea{
+	width:400px;
+	border:1px solid #ccc;
+	padding:10px;
+	margin-bottom:10px;
+}

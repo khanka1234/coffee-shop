@@ -1,0 +1,37 @@
+.static, .relative, .absolute, .fixed, .sticky{
+	width:150px;
+	height:150px;
+	background-color:aqua;
+	margin-bottom:20px;
+}
+.static{
+	position:static;
+	left:200px;
+}
+.relative{
+	position:relative;
+	left:200px;
+	top:150px;
+	right:50px;
+}
+.absolute{
+	position:absolute;
+	bottom:0px;
+	right:0px;
+}
+.fixed{
+	position:fixed;
+	right:0%;
+	top:0%;
+}
+body{
+	height:10000px;
+}
+.sticky{
+	position:sticky;
+	top:100px;
+}
+.relative:hover{
+	top:200px;
+	left:400px;
+}

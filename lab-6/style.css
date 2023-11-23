@@ -1,0 +1,23 @@
+h1,a,span{
+	background-color:aqua;
+}
+.inline{
+	display:inline;
+}
+a{
+	display:block;
+}
+span{
+	display:block;
+}
+ul li{
+	display:inline;
+	margin-right:20px;
+}
+ul li:hover{
+	color:green;
+	background-color:yellow;
+}
+.active{
+	color:red;
+}

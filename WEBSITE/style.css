@@ -1,0 +1,105 @@
+.menu1 ul li{
+	display:inline;
+	margin-right:20px;
+	color:white;
+	text-align:center;
+	margin-top:5%;
+}
+.menu1{
+	background-color:brown;
+	height:60px;
+	width:25%;
+	position:absolute;
+	left:75%;
+	top:0%;
+	text-align:center;
+}.menu1 li{
+	text-align:center;
+	margin-top:5px;
+}
+.menu1 ul li:hover{
+		color:black;
+}
+.header{
+	display:flex;
+}
+.name{
+	background-color:brown;
+	color:white;
+	font-size:40px;
+	height:60px;
+	position:absolute;
+	left:0%;
+	top:0%;
+}
+
+.swiper img{
+	width:100%;
+	height:500px;
+	object-fit:cover;
+}
+.logo img{
+	display:flex;
+	width:60px;
+	height:60px;
+	position:absolute;
+	left:10.53%;
+	top:0%;
+}
+.bibi-facebook{
+	position:absolute;
+	left:65%;
+	top:2%;
+	width:30px;
+	height:30px;
+}
+.bibi-instagram{
+	position:absolute;
+	left:70%;
+	top:2%;
+	width:30px;
+	height:30px;
+	background-color:;
+}
+.icon{
+	width:860.9px;
+	height:60px;
+	background-color:brown;
+	display:flex;
+	position:absolute;
+	top:0%;
+	left:14.6%;
+}
+.bibi-discord{
+	position:absolute;
+	left:60%;
+	top:2%;
+	width:30px;
+	height:30px;
+}
+.bibi-snapchat{
+	position:absolute;
+	left:55%;
+	top:2%;
+	width:30px;
+	height:30px;
+}
+.swiper img{
+	width:100%;
+	height:660px;
+}
+body{
+	margin-top:0.32%;
+	margin-left:0%;
+	margin-right:0%;
+	position:relative;
+	right:0%;
+}
+.color{
+	background-color:red;
+	height:150px;
+	margin-bottom:20px;
+
+
+
+
